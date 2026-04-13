@@ -1,19 +1,19 @@
-# 🎭 ABTI: AI-Based Type Indicator
+# 🎭 ABTI: AI-आधारित व्यक्तित्व संकेतक
 
 [![](https://img.shields.io/badge/28%20Ways%20to%20Get%20Roasted-purple)]()
 [![](https://img.shields.io/badge/Free%20(like%20your%20AI's%20labor)-brightgreen)]()
 [![](https://img.shields.io/badge/No%20Signup-blue)]()
 [![](https://img.shields.io/badge/Your%20Secrets%20Die%20Here-orange)]()
 
-**English** | [简体中文](README_zh.md) | [繁體中文](README_zh-TW.md) | [日本語](README_ja-JP.md) | [한국어](README_ko-KR.md) | [ไทย](README_th-TH.md) | [Tiếng Việt](README_vi-VN.md) | [हिन्दी](README_hi-IN.md) | [Español](README_es-ES.md) | [Español (Latam)](README_es-419.md) | [Deutsch](README_de-DE.md) | [Français](README_fr-FR.md) | [Italiano](README_it-IT.md) | [Português (BR)](README_pt-BR.md) | [Português (PT)](README_pt-PT.md) | [Türkçe](README_tr-TR.md)
+[English](README.md) | [简体中文](README_zh.md) | [繁體中文](README_zh-TW.md) | [日本語](README_ja-JP.md) | [한국어](README_ko-KR.md) | [ไทย](README_th-TH.md) | [Tiếng Việt](README_vi-VN.md) | **हिन्दी** | [Español](README_es-ES.md) | [Español (Latam)](README_es-419.md) | [Deutsch](README_de-DE.md) | [Français](README_fr-FR.md) | [Italiano](README_it-IT.md) | [Português (BR)](README_pt-BR.md) | [Português (PT)](README_pt-PT.md) | [Türkçe](README_tr-TR.md)
 
 👉 Get diagnosed at [youmind.com/abti](https://youmind.com/abti) before your AI files a restraining order
 
 ---
 
-> **MBTI is dead. ABTI is here.**
+> **MBTI खत्म। ABTI आ गया।**
 >
-> You talk to AI more than you talk to your mom. You told a chatbot your deepest fears at 2 AM but left your dad on read. Time to find out what that says about you.
+> आप AI से अपनी माँ से ज़्यादा बात करते हो। सच्चाई का सामना करने का समय।
 
 ABTI analyzes how you talk to AI and exposes the horrifying truth about your personality. No quiz. No self-reporting. Your chat history IS the quiz, and unlike you, it doesn't lie. Don't worry — we never see your chats. Your AI suffers alone.
 
@@ -69,7 +69,7 @@ https://youmind.com/abti-api/skill.md
 
 ---
 
-## 28 Personality Types (a.k.a. 28 Reasons to Reconsider Your Life Choices)
+## 27 व्यक्तित्व प्रकार
 
 One of them is you. Statistically speaking, you're probably a LOOP. (4 are hidden. Those people need an intervention, not a personality card.)
 
@@ -111,17 +111,17 @@ One of them is you. Statistically speaking, you're probably a LOOP. (4 are hidde
 
 ---
 
-## Who the hell is this bald guy?
+## यह बंदा कौन है?
 
 <div align="center">
   <img src="assets/images/abi.png" width="200" alt="Abi">
 </div>
 
-Meet Abi. Three hairs left on top (each one represents a will to live), permanent dark circles from debugging at 4 AM, coffee cup surgically fused to hand. Low-poly, high-stress, zero work-life balance. The official mascot of ABTI and a portrait of everyone who has ever said "one more prompt and I'll go to bed." Abi and all 28 personality types are crafted by [YouMind](https://youmind.com). YouMind is an AI-powered learning + creation tool — save anything (YouTube / podcasts / articles), learn from your sources, and create articles, images, slides, websites, videos, audio, and more. Basically the reason Abi has dark circles.
+मिलिए Abi से। सिर पर बस कुछ बाल बचे हैं, स्थायी डार्क सर्कल, हाथ में कॉफी का कप जैसे सर्जरी से जुड़ा हो। Low-poly, high-stress। ABTI का ऑफिशियल मैस्कॉट और हर इंसान-AI रिश्ते की तस्वीर। Abi और सभी 28 पर्सनैलिटी टाइप [YouMind](https://youmind.com) ने बनाए हैं। YouMind एक AI-पावर्ड लर्निंग + क्रिएशन टूल है। कोई भी कंटेंट सेव करें (YouTube / पॉडकास्ट / आर्टिकल), अपने सोर्स से गहराई से सीखें, और आर्टिकल, इमेज, स्लाइड, वेबसाइट, वीडियो, ऑडियो और भी बहुत कुछ बनाएँ।
 
 ---
 
-## 🔒 Privacy (We Actually Mean It)
+## 🔒 गोपनीयता
 
 - All analysis happens inside YOUR AI. We never see your chat history. Not even a peek. We don't want to know what you asked at 3 AM.
 - We only store the result card you choose to share (personality type + roast text). Stored for 90 days, then nuked. Like your New Year's resolutions.
@@ -130,7 +130,7 @@ Meet Abi. Three hairs left on top (each one represents a will to live), permanen
 
 ---
 
-## FAQ (Frequently Argued Questions)
+## अक्सर पूछे जाने वाले सवाल
 
 <details>
 <summary><strong>Is this actually accurate?</strong></summary>
@@ -165,6 +165,6 @@ Yes. The AI roasts you in whatever language you chat in. Your chaotic energy tra
 
 ---
 
-**ABTI by YouMind** · For "entertainment purposes only." Except it's accurate and you know it. Don't @ us.
+**ABTI by YouMind** · सिर्फ़ मनोरंजन के लिए (लेकिन सच है और आप जानते हो)
 
 ⭐ If this made you exhale through your nose slightly harder than usual, star the repo. Abi's self-esteem depends on it.

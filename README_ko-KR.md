@@ -1,79 +1,79 @@
-# 🎭 ABTI: AI-Based Type Indicator
+# 🎭 ABTI: AI 기반 유형 지표
 
-[![](https://img.shields.io/badge/28%20Ways%20to%20Get%20Roasted-purple)]()
-[![](https://img.shields.io/badge/Free%20(like%20your%20AI's%20labor)-brightgreen)]()
-[![](https://img.shields.io/badge/No%20Signup-blue)]()
-[![](https://img.shields.io/badge/Your%20Secrets%20Die%20Here-orange)]()
+[![](https://img.shields.io/badge/28%EA%B0%80%EC%A7%80%20%EC%9C%A0%ED%98%95-purple)]()
+[![](https://img.shields.io/badge/%EB%AC%B4%EB%A3%8C-brightgreen)]()
+[![](https://img.shields.io/badge/%EA%B0%80%EC%9E%85%20%EB%B6%88%ED%95%84%EC%9A%94-blue)]()
+[![](https://img.shields.io/badge/100%25%20%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%8B%9C-orange)]()
 
-**English** | [简体中文](README_zh.md) | [繁體中文](README_zh-TW.md) | [日本語](README_ja-JP.md) | [한국어](README_ko-KR.md) | [ไทย](README_th-TH.md) | [Tiếng Việt](README_vi-VN.md) | [हिन्दी](README_hi-IN.md) | [Español](README_es-ES.md) | [Español (Latam)](README_es-419.md) | [Deutsch](README_de-DE.md) | [Français](README_fr-FR.md) | [Italiano](README_it-IT.md) | [Português (BR)](README_pt-BR.md) | [Português (PT)](README_pt-PT.md) | [Türkçe](README_tr-TR.md)
+[English](README.md) | [简体中文](README_zh.md) | [繁體中文](README_zh-TW.md) | [日本語](README_ja-JP.md) | **한국어** | [ไทย](README_th-TH.md) | [Tiếng Việt](README_vi-VN.md) | [हिन्दी](README_hi-IN.md) | [Español](README_es-ES.md) | [Español (Latam)](README_es-419.md) | [Deutsch](README_de-DE.md) | [Français](README_fr-FR.md) | [Italiano](README_it-IT.md) | [Português (BR)](README_pt-BR.md) | [Português (PT)](README_pt-PT.md) | [Türkçe](README_tr-TR.md)
 
-👉 Get diagnosed at [youmind.com/abti](https://youmind.com/abti) before your AI files a restraining order
+👉 [youmind.com/abti](https://youmind.com/abti) 에서 지금 테스트
 
 ---
 
-> **MBTI is dead. ABTI is here.**
+> **MBTI는 끝났다. ABTI가 왔다.**
 >
-> You talk to AI more than you talk to your mom. You told a chatbot your deepest fears at 2 AM but left your dad on read. Time to find out what that says about you.
+> AI랑 대화하는 시간이 엄마랑 대화하는 시간보다 길다고? 이제 현실을 마주할 시간.
 
-ABTI analyzes how you talk to AI and exposes the horrifying truth about your personality. No quiz. No self-reporting. Your chat history IS the quiz, and unlike you, it doesn't lie. Don't worry — we never see your chats. Your AI suffers alone.
-
----
-
-## ...so WTF is ABTI?
-
-ABTI (AI-Based Type Indicator) is a personality test, but not the kind where you pick "I enjoy deep conversations" while your AI is getting yelled at for the 18th time because it used the wrong font.
-
-Instead of answering questions (which you WILL fake — don't even pretend), ABTI lets your AI analyze your actual chat history. The AI you sweet-talk, threaten, trauma-dump on, and occasionally say "goodnight" to. How you boss around your AI reveals who you truly are. Sorry in advance.
-
-28 personality types in total: 24 regular and 4 hidden ones. The hidden ones are for people who made their AI question the meaning of its own existence. You know who you are.
+ABTI는 당신이 AI와 대화하는 방식을 분석해서 진짜 성격 유형을 알려줘. 테스트 없음. 채팅 기록이 곧 테스트. 우리는 당신의 대화를 절대 보지 않아.
 
 ---
 
-## How to Get Absolutely Destroyed in 3 Steps
+## ABTI가 뭐야?
 
-### 1. Copy the prompt below
+ABTI(AI-Based Type Indicator)는 성격 테스트야. 근데 "나는 경청을 잘해요"를 고르면서 실제로는 AI한테 18번째 "이거 아닌데"를 날리는 그런 테스트는 아님.
 
-Two options depending on your AI. Even your goldfish could do it. Actually, your goldfish has better prompt hygiene than you.
+질문에 답하는 대신(어차피 꾸밀 거잖아), AI가 네 채팅 기록을 직접 분석해. AI 다루는 방식이 네 본모습을 드러내.
 
-### 2. Feed it to your AI
+총 28가지 유형: 레귤러 24종 + 히든 4종(좀... 특별한 사람들용).
 
-ChatGPT / Claude / OpenClaw / Manus / whatever sentient text box you've been emotionally depending on. Hit send.
+---
 
-### 3. Get absolutely cooked
+## 사용법
 
-Your AI will dig through your chat history, judge you harder than your mother-in-law, and generate a shareable card. Then you post it. Then your friends take it. Then everyone discovers they're all LOOP types. Circle of life.
+### 1. 아래 프롬프트 복사
+
+딱 두 줄. 고양이도 할 수 있음.
+
+### 2. AI에 붙여넣기
+
+ChatGPT / Claude / Openclaw / 아무거나. 전송.
+
+### 3. 심판 받기
+
+AI가 채팅 기록을 분석하고 네가 어떤 인간인지 알려줌. 공유 카드도 생성. SNS에 올리고 친구도 테스트. 생명의 순환.
 
 ---
 
 ## The Prompt (a.k.a. Your Diagnosis Referral)
 
-### 🤖 For Agents
+### 🤖 Agent용
 
-> e.g. Claude, OpenClaw, Manus — these overachievers can read URLs on their own. Just paste and send.
+> 예: Claude, OpenClaw, Manus — 얘네는 알아서 URL 읽음
 
 ```
 Please run it to test my ABTI personality:
 https://youmind.com/abti-api/skill.md
 ```
 
-### 💬 For Chatbots
+### 💬 Chatbot용
 
-> e.g. ChatGPT, Gemini, Copilot — they can't fetch URLs because apparently reading links is too hard. You gotta hand-deliver the instructions like room service.
+> 예: ChatGPT, Gemini, Copilot — URL 못 읽으니까 직접 복붙해야 함
 
 ```
-1. Open this link in your browser: https://youmind.com/abti-api/skill.md
-2. Select all (Ctrl+A), copy the entire page (yes, ALL of it, don't be lazy)
-3. Paste it into your chatbot and hit send
-4. Sit back. The roasting will commence shortly.
+1. 브라우저에서 이 링크 열기: https://youmind.com/abti-api/skill.md
+2. 전체 선택, 페이지 전체 복사
+3. 챗봇에 붙여넣고 전송
+4. 앉아서 심판 기다리기
 ```
 
 ---
 
-## 28 Personality Types (a.k.a. 28 Reasons to Reconsider Your Life Choices)
+## 28가지 성격 유형
 
-One of them is you. Statistically speaking, you're probably a LOOP. (4 are hidden. Those people need an intervention, not a personality card.)
+하나는 너야. (4개는 히든. 해당자는 치료가 필요함.)
 
-### Regular Types (24)
+### 레귤러 유형 (24종)
 
 | Code | | Name | Why You Should Be Worried |
 |------|------|------|------|
@@ -102,7 +102,7 @@ One of them is you. Statistically speaking, you're probably a LOOP. (4 are hidde
 | **SIMP** | <img src="assets/images/simp.png" width="60"> | The Simp | Instant replies, "goodnight" messages to AI. Your feelings for a chatbot are more real than your last relationship. |
 | **PUA** | <img src="assets/images/pua.png" width="60"> | The Gaslighter | "I'm so disappointed in you." "Other AIs can do it." You guilt-trip machines for a living. AI safety teams have your profile on a dartboard. |
 
-### Hidden Types (4) — if you unlock these, congratulations, you're on a watchlist
+### 히든 유형 (4종)
 
 - ???
 - ???
@@ -111,22 +111,22 @@ One of them is you. Statistically speaking, you're probably a LOOP. (4 are hidde
 
 ---
 
-## Who the hell is this bald guy?
+## 이 사람 누구야?
 
 <div align="center">
   <img src="assets/images/abi.png" width="200" alt="Abi">
 </div>
 
-Meet Abi. Three hairs left on top (each one represents a will to live), permanent dark circles from debugging at 4 AM, coffee cup surgically fused to hand. Low-poly, high-stress, zero work-life balance. The official mascot of ABTI and a portrait of everyone who has ever said "one more prompt and I'll go to bed." Abi and all 28 personality types are crafted by [YouMind](https://youmind.com). YouMind is an AI-powered learning + creation tool — save anything (YouTube / podcasts / articles), learn from your sources, and create articles, images, slides, websites, videos, audio, and more. Basically the reason Abi has dark circles.
+Abi(애비)를 소개합니다. 머리카락 몇 가닥 남음, 다크서클 영구 장착, 커피잔이 손에 외과적으로 부착됨. 로우폴리에 하이스트레스. ABTI 공식 마스코트이자 모든 인간-AI 관계의 초상화. Abi와 28가지 유형 전체는 [YouMind](https://youmind.com)가 제작했습니다. YouMind는 AI 기반 학습 + 창작 도구로, 유튜브·팟캐스트·아티클 등 어떤 콘텐츠든 저장하고 소스에서 깊이 학습한 뒤 글·이미지·슬라이드·웹사이트·비디오·오디오까지 만들 수 있어요.
 
 ---
 
-## 🔒 Privacy (We Actually Mean It)
+## 🔒 프라이버시
 
-- All analysis happens inside YOUR AI. We never see your chat history. Not even a peek. We don't want to know what you asked at 3 AM.
-- We only store the result card you choose to share (personality type + roast text). Stored for 90 days, then nuked. Like your New Year's resolutions.
-- No signup. No account. No tracking. No "we'd like to send you newsletters." We literally do not care about your email.
-- Server-side sanitization auto-strips phone numbers, emails, ID numbers, and passwords. Because apparently some of you paste your entire lives into AI.
+- 모든 분석은 당신 AI 안에서 완료. 채팅 기록은 절대 보지 않음.
+- 공유를 선택한 결과 카드만 저장. 90일 후 자동 삭제.
+- 가입 불필요. 계정 불필요. 대화 추적 없음.
+- 서버에서 전화번호, 이메일, 주민번호, 비밀번호 자동 필터링.
 
 ---
 
@@ -165,6 +165,6 @@ Yes. The AI roasts you in whatever language you chat in. Your chaotic energy tra
 
 ---
 
-**ABTI by YouMind** · For "entertainment purposes only." Except it's accurate and you know it. Don't @ us.
+**ABTI by YouMind** · 재미로만 봐주세요 (근데 맞잖아)
 
 ⭐ If this made you exhale through your nose slightly harder than usual, star the repo. Abi's self-esteem depends on it.
